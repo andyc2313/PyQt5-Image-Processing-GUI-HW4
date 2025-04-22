@@ -48,11 +48,3 @@ pip install pyqt5 opencv-python numpy matplotlib
 ├── HW4App.py      # The main application code
 └── resources/     # Folder for additional resources, if needed
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify or add anything according to your preferences!
