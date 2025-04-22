@@ -9,8 +9,11 @@ This is an image processing application built using PyQt5 that allows users to p
 - **Ideal Filter**: Apply an Ideal filter to the image. The user can specify the cutoff frequency (D0) and choose between a low-pass or high-pass filter.
 - **Butterworth Filter**: Apply a Butterworth filter to the image. The user can specify the cutoff frequency (D0) and the order (n), and choose between a low-pass or high-pass filter.
 - **Gaussian Filter**: Apply a Gaussian filter to the image. The user can specify the cutoff frequency (D0) and choose between a low-pass or high-pass filter.
+- ![GUI Screenshot](high_pass_filter.png)
 - **Homomorphic Filter**: Apply a Homomorphic filter to the image for image enhancement.
+- ![GUI Screenshot](hormorphic.png)
 - **Image Blurring**: Apply a blurring effect to the image.
+- ![GUI Screenshot](low_pass_filter.png)
 - **Exit**: Close the application.
 
 ## Requirements
